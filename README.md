@@ -19,5 +19,5 @@ Este é um script em Python que realiza requisições POST em loop para a API de
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/telegram-auth-spam.git
-   cd telegram-auth-spam
+   git clone https://github.com/pladix/SpamSms-Telegram.git
+   cd SpamSms-Telegram
